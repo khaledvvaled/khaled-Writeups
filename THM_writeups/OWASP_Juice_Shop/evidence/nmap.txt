@@ -1,0 +1,8 @@
+ Nmap 7.94SVN scan initiated Tue Nov 25 14:53:33 2025 as: nmap -sV -o nmap.txt 10.82.159.46
+Nmap scan report for 10.82.159.46
+Host is up (0.018s latency).
+Not shown: 998 closed tcp ports (conn-refused)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 9.6p1 Ubuntu 3ubuntu13.11 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
